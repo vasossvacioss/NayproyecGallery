@@ -204,11 +204,15 @@ ul {
         width: 50%;
    }
    .galeria img {
-    width: 180px;
-    height: 90px;
+    width: 200px;
+    height: 120px;
     box-shadow: #24262b;
     border-radius: 15px;
-}
+   }
+   .text-center{
+    margin-left: 70px;
+   }
+
 
    
 }
@@ -222,5 +226,5 @@ ul {
         width: 50%;
    }
 
-   
+ 
 }}
