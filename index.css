@@ -2,8 +2,7 @@
 
 
 .navbar-expand-lg{
-    background-color: #24262b;
-    opacity: 100%;
+    background-color: #ffffff;
 }
 
 
@@ -11,7 +10,8 @@
 
     font-family: 'Roboto', sans-serif;
     font-weight: 400 bold;
-    color: #ffffff;
+    font-size: 30px;
+    color: #24262b;
 }
 /*https://images2.alphacoders.com/158/thumb-1920-158322.jpg*/
 
@@ -28,9 +28,11 @@
 }
 .container .card img {
     width: 286px;
-    height: 190px;
+    height: 300px;
 }
 .container .card {
+    width: 300px;
+    height: 450px;
     margin-top: 10px;
 }
 .container  .card h5{
@@ -64,7 +66,7 @@
 
 .galeria img {
     width: 300px;
-    height: 180px;
+    height: 450px;
     box-shadow: #24262b;
     border-radius: 15px;
 }
