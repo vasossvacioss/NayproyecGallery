@@ -10,7 +10,7 @@
 
     font-family: 'Roboto', sans-serif;
     font-weight: 400 bold;
-    font-size: 30px;
+    font-size: 20px;
     color: #24262b;
 }
 /*https://images2.alphacoders.com/158/thumb-1920-158322.jpg*/
@@ -70,6 +70,7 @@
     box-shadow: #24262b;
     border-radius: 15px;
 }
+
 
 .materialbox-caption {
     bottom: 30px;
