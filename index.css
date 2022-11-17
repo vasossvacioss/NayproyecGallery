@@ -227,6 +227,8 @@ ul {
    .row .titulo{
     font-size: 30px;
    }
-
+   .text-center .col .card {
+    margin-left: 20px;
+   }
  
 }}
