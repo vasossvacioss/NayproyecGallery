@@ -203,6 +203,9 @@ ul {
         width: 50%;
         margin-bottom: 20px;
     }
+    .text-center .col .card {
+        margin-left: 20px;
+       }
  
    /*.galeria img {
     margin: 0% 0% 10% 10%;
